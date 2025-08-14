@@ -31,7 +31,7 @@
 
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white/)
 
-[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge\&logo=git\&logoColor=white/)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge\&logo=git\&logoColor=white)
 
 
 \*\*Sistema Operacionais\*\*
@@ -51,7 +51,7 @@
 
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge\&logo=Eclipse\&logoColor=white/)
 
-[![IntelliJ](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge\&logo=IntelliJ\&logoColor=white/)
+![IntelliJ](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge\&logo=IntelliJ\&logoColor=white/)
 
 
 \*\* Contato \*\*
